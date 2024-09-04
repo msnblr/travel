@@ -1,0 +1,9 @@
+.bar-one {
+  display: flex;
+  list-style-type: none;
+  padding: 15px;
+}
+.bar-one li a {
+  text-decoration: none;
+  margin: 10px;
+}

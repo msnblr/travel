@@ -1,0 +1,17 @@
+.header-bar {
+  width: 100%;
+  height: 10vh;
+  background-color: yellow;
+}
+.abt {
+  background-color: rgb(177, 227, 233);
+}
+p::first-line{
+    color: red;
+}
+p::after{
+  background-color: yellow;
+}
+p::before{
+  background-color: pink;
+}
